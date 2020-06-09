@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">请输入名字</string>
+    <string name="button_sub">提交</string>
+</resources>
